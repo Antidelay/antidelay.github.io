@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[遅延対策 PS3,XBOXネットワーク対戦 ラグ解消方法 HowTo]]></title>
+  <title><![CDATA[ネットワーク対戦 HowTo]]></title>
   <link href="http://antidelay.github.io/atom.xml" rel="self"/>
   <link href="http://antidelay.github.io/"/>
-  <updated>2015-01-01T22:31:47+09:00</updated>
+  <updated>2015-01-02T00:04:51+09:00</updated>
   <id>http://antidelay.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[antidelay]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
