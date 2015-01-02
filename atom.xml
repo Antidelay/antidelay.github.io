@@ -4,7 +4,7 @@
   <title><![CDATA[ネットワーク対戦 HowTo]]></title>
   <link href="http://antidelay.github.io/atom.xml" rel="self"/>
   <link href="http://antidelay.github.io/"/>
-  <updated>2015-01-02T00:22:31+09:00</updated>
+  <updated>2015-01-02T17:10:46+09:00</updated>
   <id>http://antidelay.github.io/</id>
   <author>
     <name><![CDATA[antidelay]]></name>
@@ -47,6 +47,14 @@
 ④対戦結果をマッチングサーバに対して送信します。</p>
 
 <p>マッチングサーバはゲーム性質上、順位付けのための対戦ポイントの管理なども行っている場合があります。</p>
+
+<h2>ネットワーク遅延の改善方法</h2>
+
+<h3>DNSを高速なものに変更する</h3>
+
+<h3>応答速度と回線品質</h3>
+
+<h3>回線品質の確認方法</h3>
 ]]></content>
     
   </entry>
